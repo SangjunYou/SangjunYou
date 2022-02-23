@@ -1,4 +1,4 @@
-### Hi there 👋
+### Dashboard
 
 | URL | Status | Uptime |
 | --- | ------ | ------ |
