@@ -1,9 +1,10 @@
-### Dashboard
+### Dashboard 
 <!-- 
 | URL | Status | Uptime |
 | --- | ------ | ------ |
 | <img alt="" src="https://favicons.githubusercontent.com/sangjunyou.github.io" height="13"> [sj-you's Blog](https://sangjunyou.github.io) | 🟩 Up | <details><summary><a href="https://SangjunYou.github.io/upptime/history/sangjun-you-s-blog">100.00%</a></summary><a href="https://SangjunYou.github.io/upptime/history/sangjun-you-s-blog"><img alt="All-time uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSangjunYou%2Fupptime%2FHEAD%2Fapi%2Fsangjun-you-s-blog%2Fuptime.json"></a><br><a href="https://SangjunYou.github.io/upptime/history/sangjun-you-s-blog"><img alt="24-hour uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSangjunYou%2Fupptime%2FHEAD%2Fapi%2Fsangjun-you-s-blog%2Fuptime-day.json"></a><br><a href="https://SangjunYou.github.io/upptime/history/sangjun-you-s-blog"><img alt="7-day uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSangjunYou%2Fupptime%2FHEAD%2Fapi%2Fsangjun-you-s-blog%2Fuptime-week.json"></a><br><a href="https://SangjunYou.github.io/upptime/history/sangjun-you-s-blog"><img alt="30-day uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSangjunYou%2Fupptime%2FHEAD%2Fapi%2Fsangjun-you-s-blog%2Fuptime-month.json"></a><br><a href="https://SangjunYou.github.io/upptime/history/sangjun-you-s-blog"><img alt="1-year uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSangjunYou%2Fupptime%2FHEAD%2Fapi%2Fsangjun-you-s-blog%2Fuptime-year.json"></a></details>
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsj-you&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sj-you&show_icons=true&theme=dark)
 
