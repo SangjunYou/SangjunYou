@@ -1,25 +1,32 @@
-### Dashboard 
-
-| URL | Status | Uptime |
-| --- | ------ | ------ |
-| <img alt="" src="https://favicons.githubusercontent.com/sangjunyou.github.io" height="13"> [sj-you's Blog](https://sangjunyou.github.io) | 🟩 Up | <details><summary><a href="https://SangjunYou.github.io/upptime/history/sangjun-you-s-blog">100.00%</a></summary><a href="https://SangjunYou.github.io/upptime/history/sangjun-you-s-blog"><img alt="All-time uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSangjunYou%2Fupptime%2FHEAD%2Fapi%2Fsangjun-you-s-blog%2Fuptime.json"></a><br><a href="https://SangjunYou.github.io/upptime/history/sangjun-you-s-blog"><img alt="24-hour uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSangjunYou%2Fupptime%2FHEAD%2Fapi%2Fsangjun-you-s-blog%2Fuptime-day.json"></a><br><a href="https://SangjunYou.github.io/upptime/history/sangjun-you-s-blog"><img alt="7-day uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSangjunYou%2Fupptime%2FHEAD%2Fapi%2Fsangjun-you-s-blog%2Fuptime-week.json"></a><br><a href="https://SangjunYou.github.io/upptime/history/sangjun-you-s-blog"><img alt="30-day uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSangjunYou%2Fupptime%2FHEAD%2Fapi%2Fsangjun-you-s-blog%2Fuptime-month.json"></a><br><a href="https://SangjunYou.github.io/upptime/history/sangjun-you-s-blog"><img alt="1-year uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FSangjunYou%2Fupptime%2FHEAD%2Fapi%2Fsangjun-you-s-blog%2Fuptime-year.json"></a></details>
-
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sj-you&show_icons=true&theme=dark) 
--->
+<div align="center">
 
 
-<!--
-**SangjunYou/SangjunYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SangJun&ensp;Yoo&fontSize=70">
+  
+  <div>&ensp;</div>
 
-Here are some ideas to get you started:
+<!--   <div align="left">&emsp;&emsp; 📓 Blog : <a href="https://hazellog.tistory.com">https://hazellog.tistory.com</a></div> -->
+<!--   <div align="left">&emsp;&emsp; 📄 Resume: ... </div> -->
+  <br/>
+  <br/>
+  <br/>
+  
+  <hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /> 
+  <br/><br/>  
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
+  <br/><br/>  
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
+  <br/><br/>
+  
+</div>
