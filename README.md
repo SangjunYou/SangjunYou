@@ -28,5 +28,7 @@
   <img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
   <!--   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" /> -->
   <br/><br/>
+
+  blog : https://velog.io/@sj-you
   
 </div>
